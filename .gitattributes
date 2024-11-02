@@ -1,0 +1,2 @@
+504proj filter=lfs diff=lfs merge=lfs -text
+504proj2 filter=lfs diff=lfs merge=lfs -text
